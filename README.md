@@ -1,4 +1,4 @@
-# Web-Design-Group-10
+# Web-Design-Group-12
 
 Project name ::  GrubBites
 #################### Group Name:: ##########################
